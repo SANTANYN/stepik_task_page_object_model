@@ -1,0 +1,264 @@
+1627479242773	geckodriver	INFO	Listening on 127.0.0.1:56437
+1627479245855	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofileQllWfE"
+1627479246867	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofileQllWfE\\search.json.mozlz4", (void 0)))
+1627479249544	Marionette	INFO	Listening on port 56445
+1627479249589	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/accounts/login/, line 624: ReferenceError: oscar is not defined
+1627479251635	Marionette	INFO	Stopped listening on port 56445
+[Parent 17468, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1627479632358	geckodriver	INFO	Listening on 127.0.0.1:54210
+1627479635445	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofilesPC2N0"
+1627479636258	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofilesPC2N0\\search.json.mozlz4", (void 0)))
+1627479639371	Marionette	INFO	Listening on port 54218
+1627479639641	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/accounts/login/, line 624: ReferenceError: oscar is not defined
+1627479641550	Marionette	INFO	Stopped listening on port 54218
+1627480046987	geckodriver	INFO	Listening on 127.0.0.1:63090
+1627480050091	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofile55Q6a1"
+1627480050933	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofile55Q6a1\\search.json.mozlz4", (void 0)))
+1627480054228	Marionette	INFO	Listening on port 49586
+1627480054294	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/accounts/login/, line 624: ReferenceError: oscar is not defined
+1627480056389	Marionette	INFO	Stopped listening on port 49586
+[Parent 23072, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1627480074499	geckodriver	INFO	Listening on 127.0.0.1:51466
+1627480077574	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofilesRHtGH"
+1627480078011	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofilesRHtGH\\search.json.mozlz4", (void 0)))
+1627480080498	Marionette	INFO	Listening on port 51474
+1627480080767	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/accounts/login/, line 624: ReferenceError: oscar is not defined
+1627480082566	Marionette	INFO	Stopped listening on port 51474
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627480381459	geckodriver	INFO	Listening on 127.0.0.1:61783
+1627480384547	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofileI9gPdb"
+1627480385346	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofileI9gPdb\\search.json.mozlz4", (void 0)))
+1627480389049	Marionette	INFO	Listening on port 61791
+1627480389377	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/accounts/login/, line 624: ReferenceError: oscar is not defined
+1627480391329	Marionette	INFO	Stopped listening on port 61791
+1627481482133	geckodriver	INFO	Listening on 127.0.0.1:62033
+1627481485273	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofileVMULfb"
+1627481486088	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofileVMULfb\\search.json.mozlz4", (void 0)))
+1627481489218	Marionette	INFO	Listening on port 62041
+1627481489509	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/accounts/login/, line 624: ReferenceError: oscar is not defined
+1627481491359	Marionette	INFO	Stopped listening on port 62041
+1627481523799	geckodriver	INFO	Listening on 127.0.0.1:58103
+1627482532914	geckodriver	INFO	Listening on 127.0.0.1:49599
+1627482536031	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofileyo7yvG"
+1627482537189	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofileyo7yvG\\search.json.mozlz4", (void 0)))
+1627482540307	Marionette	INFO	Listening on port 49607
+1627482540372	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/accounts/login/, line 624: ReferenceError: oscar is not defined
+1627482547528	Marionette	INFO	Stopped listening on port 49607
+[Parent 23692, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1627482560381	geckodriver	INFO	Listening on 127.0.0.1:51765
+1627482563496	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofileLkDoI2"
+1627482563993	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofileLkDoI2\\search.json.mozlz4", (void 0)))
+1627482566492	Marionette	INFO	Listening on port 51773
+1627482566677	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627482567933	Marionette	INFO	Stopped listening on port 51773
+1627483398485	geckodriver	INFO	Listening on 127.0.0.1:53893
+1627483401596	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofile0Q0eNP"
+1627483402588	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofile0Q0eNP\\search.json.mozlz4", (void 0)))
+1627483405975	Marionette	INFO	Listening on port 62082
+1627483406439	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1627483408211	Marionette	INFO	Stopped listening on port 62082
+[Parent 9392, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1627483492429	geckodriver	INFO	Listening on 127.0.0.1:52734
+1627483495482	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofileLMa6If"
+1627483495904	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofileLMa6If\\search.json.mozlz4", (void 0)))
+1627483498755	Marionette	INFO	Listening on port 58478
+1627483499167	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1627483500942	Marionette	INFO	Stopped listening on port 58478
+1627483555692	geckodriver	INFO	Listening on 127.0.0.1:62783
+1627483558812	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofileVXBa99"
+1627483559233	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofileVXBa99\\search.json.mozlz4", (void 0)))
+1627483561906	Marionette	INFO	Listening on port 64998
+1627483561995	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1627483563459	Marionette	INFO	Stopped listening on port 64998
+[Parent 2352, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1627483580546	geckodriver	INFO	Listening on 127.0.0.1:56633
+1627483583587	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofilehWoQr9"
+1627483584029	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofilehWoQr9\\search.json.mozlz4", (void 0)))
+1627483586657	Marionette	INFO	Listening on port 51066
+1627483586774	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1627483588501	Marionette	INFO	Stopped listening on port 51066
+[Parent 17824, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1627483633929	geckodriver	INFO	Listening on 127.0.0.1:63298
+1627483637062	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofileAbycEb"
+1627483637472	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofileAbycEb\\search.json.mozlz4", (void 0)))
+1627483640065	Marionette	INFO	Listening on port 56669
+1627483640239	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1627483641724	Marionette	INFO	Stopped listening on port 56669
+[Parent 16340, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627483761640	geckodriver	INFO	Listening on 127.0.0.1:49998
+1627483764741	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofileVZjOlC"
+1627483765163	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofileVZjOlC\\search.json.mozlz4", (void 0)))
+1627483767560	Marionette	INFO	Listening on port 60408
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3900D6,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3900D6,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+1627483767926	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1627483770545	Marionette	INFO	Stopped listening on port 60408
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627483974754	geckodriver	INFO	Listening on 127.0.0.1:54439
+1627483977845	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofilejYK9AC"
+1627483978603	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofilejYK9AC\\search.json.mozlz4", (void 0)))
+1627483981549	Marionette	INFO	Listening on port 51069
+1627483982056	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+[Parent 10612, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1627483994958	Marionette	INFO	Stopped listening on port 51069
+1627484042947	geckodriver	INFO	Listening on 127.0.0.1:59640
+1627484046030	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofilee3aLGg"
+1627484046430	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofilee3aLGg\\search.json.mozlz4", (void 0)))
+1627484048852	Marionette	INFO	Listening on port 54001
+1627484049199	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1627484056777	Marionette	INFO	Stopped listening on port 54001
+1627484097742	geckodriver	INFO	Listening on 127.0.0.1:57071
+1627484100811	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofileB05GmH"
+1627484101197	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofileB05GmH\\search.json.mozlz4", (void 0)))
+1627484103647	Marionette	INFO	Listening on port 55629
+1627484103999	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+[Parent 8296, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1627484108757	Marionette	INFO	Stopped listening on port 55629
+1627484139708	geckodriver	INFO	Listening on 127.0.0.1:52975
+1627484142762	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofile1xNcZI"
+1627484143322	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofile1xNcZI\\search.json.mozlz4", (void 0)))
+1627484145727	Marionette	INFO	Listening on port 52005
+1627484145943	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1627484150545	Marionette	INFO	Stopped listening on port 52005
+1627484167669	geckodriver	INFO	Listening on 127.0.0.1:53816
+1627484170760	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofiledENrLN"
+1627484171153	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofiledENrLN\\search.json.mozlz4", (void 0)))
+1627484173584	Marionette	INFO	Listening on port 51173
+1627484173963	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+[Parent 21608, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1627484177655	Marionette	INFO	Stopped listening on port 51173
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627484207982	geckodriver	INFO	Listening on 127.0.0.1:62154
+1627484211052	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofilet7QTF9"
+1627484211437	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofilet7QTF9\\search.json.mozlz4", (void 0)))
+1627484213837	Marionette	INFO	Listening on port 57828
+1627484214243	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+[Parent 13756, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1627484218401	Marionette	INFO	Stopped listening on port 57828
+1627484889748	geckodriver	INFO	Listening on 127.0.0.1:57346
+1627484892848	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofileWZOstg"
+1627484893914	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofileWZOstg\\search.json.mozlz4", (void 0)))
+1627484898099	Marionette	INFO	Listening on port 65444
+1627484898174	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1627484900181	Marionette	INFO	Stopped listening on port 65444
+[Parent 10540, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1627484972574	geckodriver	INFO	Listening on 127.0.0.1:65306
+1627484975701	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofileCiEJYc"
+1627484976555	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofileCiEJYc\\search.json.mozlz4", (void 0)))
+1627484979711	Marionette	INFO	Listening on port 53049
+1627484979908	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1627484981824	Marionette	INFO	Stopped listening on port 53049
+[Parent 20184, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1627484992522	geckodriver	INFO	Listening on 127.0.0.1:63280
+1627484995596	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofilepmzann"
+1627484996102	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofilepmzann\\search.json.mozlz4", (void 0)))
+1627484998683	Marionette	INFO	Listening on port 56926
+1627484998797	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1627485000504	Marionette	INFO	Stopped listening on port 56926
+[Parent 20804, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1627485012957	geckodriver	INFO	Listening on 127.0.0.1:61563
+1627485016037	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofileQ4dN7K"
+1627485016433	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofileQ4dN7K\\search.json.mozlz4", (void 0)))
+1627485019283	Marionette	INFO	Listening on port 52877
+1627485019741	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1627485031549	Marionette	INFO	Stopped listening on port 52877
+[Parent 8928, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1627485076619	geckodriver	INFO	Listening on 127.0.0.1:60010
+1627485079746	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofileM6tXst"
+1627485080147	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofileM6tXst\\search.json.mozlz4", (void 0)))
+1627485082736	Marionette	INFO	Listening on port 56761
+1627485082927	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1627485093578	Marionette	INFO	Stopped listening on port 56761
+1627485103454	geckodriver	INFO	Listening on 127.0.0.1:55459
+1627485106546	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofileNfR0Sp"
+1627485106943	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofileNfR0Sp\\search.json.mozlz4", (void 0)))
+1627485109876	Marionette	INFO	Listening on port 62110
+1627485110249	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1627485113717	Marionette	INFO	Stopped listening on port 62110
+1627485225183	geckodriver	INFO	Listening on 127.0.0.1:49998
+1627485228316	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofile4bBq1O"
+1627485228846	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\msorokin\\AppData\\Local\\Temp\\rust_mozprofile4bBq1O\\search.json.mozlz4", (void 0)))
+1627485231462	Marionette	INFO	Listening on port 59735
+1627485231542	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/es/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1627485244500	Marionette	INFO	Stopped listening on port 59735
+[Parent 25672, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
