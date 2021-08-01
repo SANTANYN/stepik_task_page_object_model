@@ -19,7 +19,6 @@ def test_guest_can_go_to_login_page(browser):
     page.open()  # открываем страницу
     page.go_to_login_page()  # выполняем метод страницы — переходим на страницу логина
     login_page = LoginPage(browser, browser.current_url)
-    time.sleep(5)
     login_page.should_be_login_url()
 
 # def test_guest_can_go_to_login_page(browser):
@@ -34,6 +33,7 @@ def test_should_be_see_login_link(browser):
     page = MainPage(browser, link)
     page.open()
     page.should_be_login_link()
+
 
 def test_should_be_see_auth_page_url(browser):
     login_page_url = "http://selenium1py.pythonanywhere.com/accounts/login/"
@@ -52,6 +52,7 @@ def test_should_be_see_login_form_in_page(browser):
 
 
 def test_should_be_see_register_form_in_page(browser):
+    browser.implicitly_wait(5)
     login_page_url = "http://selenium1py.pythonanywhere.com/accounts/login/"
     auth_page = LoginPage(browser, login_page_url)
     auth_page.open()
@@ -59,6 +60,7 @@ def test_should_be_see_register_form_in_page(browser):
     auth_page.chek_email_field_in_register_form()
     auth_page.chek_password_field_in_register_form()
     auth_page.chek_re_password_field_in_register_form()
+
 
 
 
