@@ -7,7 +7,10 @@ class ProductPage(BasePage):
     def should_be_product_page(self):
         self.check_product_page_url()
         self.click_be_button_add_to_basket()
-
+        self.should_not_be_success_message()
+        self.check_success_add_to_basket()
+        self.should_not_be_success_message()
+        self.should_disappeared()
 
     def check_product_page_url(self):
         assert "catalogue" in self.browser.current_url, "wrong url, page not found"
@@ -27,6 +30,14 @@ class ProductPage(BasePage):
         print(check_product_coasts_in_alert)
         assert chek_alert == check_name
         assert product_coast == check_product_coasts_in_alert
+
+    def should_not_be_success_message(self, timeout=4):
+        assert self.is_not_element_present(*ProductPageLocators.SUCCESS_MESSAGE, timeout),\
+            "Success message is presented"
+
+    def should_disappeared(self, timeout=4):
+        assert self.browser.is_disappeared(*ProductPageLocators.SUCCESS_MESSAGE, timeout),\
+            "Success message is presented"
 
 
 
