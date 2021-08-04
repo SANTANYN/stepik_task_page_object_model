@@ -1,5 +1,4 @@
 from .base_page import BasePage
-from selenium.webdriver.common.by import By
 from .locators import ProductPageLocators
 
 
@@ -16,14 +15,14 @@ class ProductPage(BasePage):
         assert "catalogue" in self.browser.current_url, "wrong url, page not found"
 
     def click_be_button_add_to_basket(self,):
-        add_button = self.browser.find_element(*ProductPageLocators.add_to_basket_button)
+        add_button = self.browser.find_element(*ProductPageLocators.ADD_TO_BASKET_BUTTON)
         add_button.click()
 
     def check_success_add_to_basket(self):
-        chek_alert = self.browser.find_element(*ProductPageLocators.success_alert_after_add_product).text
-        check_name = self.browser.find_element(*ProductPageLocators.product_name).text
-        product_coast = self.browser.find_element(*ProductPageLocators.product_coasts).text
-        check_product_coasts_in_alert = self.browser.find_element(*ProductPageLocators.product_coasts_in_alert).text
+        chek_alert = self.browser.find_element(*ProductPageLocators.SUCCESS_ALERT_AFTER_ADD_PRODUCT).text
+        check_name = self.browser.find_element(*ProductPageLocators.PRODUCT_NAME).text
+        product_coast = self.browser.find_element(*ProductPageLocators.PRODUCT_COASTS).text
+        check_product_coasts_in_alert = self.browser.find_element(*ProductPageLocators.PRODUCT_COASTS_IN_ALERT).text
         print(chek_alert)
         print(check_name)
         print(product_coast)
@@ -36,8 +35,8 @@ class ProductPage(BasePage):
             "Success message is presented"
 
     def should_disappeared(self, timeout=4):
-        assert self.browser.is_disappeared(*ProductPageLocators.SUCCESS_MESSAGE, timeout),\
-            "Success message is presented"
+        assert self.is_disappeared(*ProductPageLocators.SUCCESS_MESSAGE, timeout), \
+            "Success message is presented, but should not be"
 
 
 
