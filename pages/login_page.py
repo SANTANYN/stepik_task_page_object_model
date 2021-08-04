@@ -3,6 +3,7 @@ from selenium.webdriver.common.by import By
 from .locators import LoginPageLocators
 from .locators import BasePageLocators
 
+
 class LoginPage(BasePage):
     def should_be_login_page(self):
         self.should_be_login_url()
